@@ -1,6 +1,6 @@
 package bylinkedlist;
-public interface SAHAS<E> {
 
+public interface Sahas<E>{
     void add(Person data);
 
 
@@ -14,5 +14,4 @@ public interface SAHAS<E> {
 
 
     void print();
-
 }
